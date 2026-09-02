@@ -8,13 +8,19 @@ My alarm clock for the HackClub Stardance mission *"BLARE"*
 
 # PCB 3D
 
-PCB FRONT
+This is the front of the PCB
 
 <img title="PCB FRONT" alt="PCB FRONT" src="SCREENSHOTS/pcb3dfront.png">
 
-PCB BACK
+This is the back of the PCB
 
 <img title="PCB BACK" alt="PCB BACK" src="SCREENSHOTS/pcb3dback.png">
+
+# CASE
+
+This is the case
+
+<img title="CASE" alt="CASE" src="SCREENSHOTS/case.png">
 
 # About
 
