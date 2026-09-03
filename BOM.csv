@@ -1,25 +1,12 @@
-┌────────────────────────┬──────────┬──────────────────────┐
-│       COMPONENT        │ QUANTITY │     DESCRIPTION      │
-│                        │          │                      │
-│ XIAO ESP32C3           │    1     │ THE BRAIN            │
-│                        │          │                      │
-│ KEYBOARD SWITCHES      │    4     │ BUTTON               │
-│                        │          │                      │
-│ KEYBOARD KEYCAPS       │    4     │ TO PUT ON BUTTON     │
-│                        │          │                      │
-│ 1N4148 DIODES          │    4     │ SWITCH PROTECTION    │
-│                        │          │                      │
-│ 2.25in TFT SCREEN      │    1     │ SCREEN               │
-│                        │          │                      │
-│ 3.3v PIEZO BUZZER      │    1     │ THE "ALARM" CLOCK    │
-│                        │          │                      │
-│ 8 PIN MALE CONNECTOR   │    1     │ CONNECTOR FOR SCREEN │
-│                        │          │                      │
-│ F --> F JUMPER WIRES   │    8     │ CABLES FOR SCREEN    │
-│                        │          │                      │
-│ M3x8mm HEATSET INSERTS │    8     │ FOR SCREWS           │
-│                        │          │                      │
-│ M3x8mm SCREWS          │    4     │ SCREWS               │
-│                        │          │                      │
-│ M3x16mm SCREWS         │    4     │ SCREWS               │
-└────────────────────────┴──────────┴──────────────────────┘
+COMPONENT,QUANTITY,DESCRIPTION
+XIAO ESP32C3,1,THE BRAIN
+KEYBOARD SWITCHES,4,BUTTON
+KEYBOARD KEYCAPS,4,TO PUT ON BUTTON
+1N4148 DIODES,4,SWITCH PROTECTION
+2.25in TFT SCREEN,1,SCREEN
+3.3V PIEZO BUZZER,1,"THE ""ALARM"" CLOCK"
+8 PIN MALE CONNECTOR,1,CONNECTOR FOR SCREEN
+F --> F JUMPER WIRES,8,CABLES FOR SCREEN
+M3x8mm HEATSET INSERTS,8,FOR SCREWS
+M3x8mm SCREWS,4,SCREWS
+M3x16mm SCREWS,4,SCREWS
