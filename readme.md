@@ -40,7 +40,7 @@ This is the case
 │                        │          │                      │
 │ KEYBOARD KEYCAPS       │    4     │ TO PUT ON BUTTON     │
 │                        │          │                      │
-│ 1N4148 DIODES          │    4     │ BASICALLY LEDS       │
+│ 1N4148 DIODES          │    4     │ SWITCH PROTECTION    │
 │                        │          │                      │
 │ 2.25in TFT SCREEN      │    1     │ SCREEN               │
 │                        │          │                      │
