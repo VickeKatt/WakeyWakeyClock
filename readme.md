@@ -30,6 +30,7 @@ This is the case
 <img title="CASE" alt="CASE" src="SCREENSHOTS/case.png">
 
 # BOM
+```BOM
 ┌────────────────────────┬──────────┬──────────────────────┐
 │       COMPONENT        │ QUANTITY │     DESCRIPTION      │
 │                        │          │                      │
@@ -55,6 +56,7 @@ This is the case
 │                        │          │                      │
 │ M3x16mm SCREWS         │    4     │ SCREWS               │
 └────────────────────────┴──────────┴──────────────────────┘
+```
 ## About
 
 Made by VickeKatt
